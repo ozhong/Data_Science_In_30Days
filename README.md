@@ -1,5 +1,5 @@
 # machine_learning
-pick up machine learning in 45 days
+pick up machine learning in 30 days
 
 The contents include
 - notes and summary on sklearn
