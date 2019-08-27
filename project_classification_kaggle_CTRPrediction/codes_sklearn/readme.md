@@ -43,7 +43,7 @@ Kaggle avazu ctr prediction competition
 * ROC curve <br>
 ![alt text](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/output_19_9.png "ROC curve")
 ![alt text](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/output_19_20.png "ROC curve zoom in")
-More analysis [here](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/Results_analysis.md)
+*More analysis [here](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/Results_analysis.md)
 
 
 ### Summary
