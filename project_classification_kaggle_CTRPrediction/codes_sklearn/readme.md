@@ -1,3 +1,5 @@
+This is python sklearn implementation.
+
 ### Data
 Kaggle avazu ctr prediction competition 
 
@@ -31,7 +33,18 @@ Kaggle avazu ctr prediction competition
 ###  Results
 * LR, with feature engineering and regularization, has a pretty good logloss under 0.4 benchmark
 * GBDT + LR significantly improved LR model
-* insert images below
+* Metrics
+
+                  accuracy	   auc	   logloss	   recall
+      lr	       0.848566	0.711747	0.389865	0.031035
+      gbt	      0.848311	0.712800	0.389059	0.004611
+      gbt_lr	   0.849801	0.720873	0.386660	0.031448
+
+* ROC curve <br>
+![alt text](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/output_19_9.png "ROC curve")
+![alt text](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/output_19_20.png "ROC curve zoom in")
+More analysis [here](https://github.com/ozhong/Data_Science_In_60Days/blob/master/project_classification_kaggle_CTRPrediction/codes_sklearn/Results_analysis/Results_analysis.md)
+
 
 ### Summary
 Two things improved the results most:
