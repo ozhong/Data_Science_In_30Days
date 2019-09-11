@@ -22,5 +22,5 @@ A workaround
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
 
 * Open "https://nbviewer.jupyter.org/"
-* Paste the link to your notebook, (e.g. "https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb") there and * * then you get "http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb"
+* Paste the link to your notebook, (e.g. "https://github.com/ozhong/Data_Science_Projects/blob/master/project_scorecard_GiveMeSomeCredit/eda_and_scorecard.ipynb") there and * * then you get "https://nbviewer.jupyter.org/github/ozhong/Data_Science_Projects/blob/master/project_scorecard_GiveMeSomeCredit/eda_and_scorecard.ipynb"
 * This site nbviewer works independently of github.
