@@ -9,6 +9,9 @@ The contents include
 - Part 5: project 2 - click-through-rate prediction
 - Part 6: project 3 - p2p loan default rate
 
+For more introduction on models or technical discussions, you may refer to my blog:
+https://machinelearning100days.wordpress.com
+
 Below is a list of information I found very helpful to familiarize with the topics
 - machine learning algorithms:
 - kaggle kernels and discussions
