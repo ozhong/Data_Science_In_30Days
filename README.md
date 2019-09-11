@@ -14,9 +14,9 @@ Below is a list of information I found very helpful to familiarize with the topi
 - kaggle kernels and discussions
 - IBM data science specialization on coursera
 
-*** 
+============================================
 
-If the notebooks doesn't open properly, try below
+#### If the notebooks doesn't open properly, try below
 
 A workaround
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
